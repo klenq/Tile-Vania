@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enermy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - Air
+  - Bouncing
+  - Enermy
+  - Hazard
+  - Bullet
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4272793343
+    locked: 0
+  - name: Platforms
+    uniqueID: 3089932983
+    locked: 0
+  - name: Ladder
+    uniqueID: 1281829861
+    locked: 0
+  - name: Hazard
+    uniqueID: 2476889951
+    locked: 0
+  - name: Enermy
+    uniqueID: 3092876475
+    locked: 0
+  - name: Player
+    uniqueID: 1697756805
+    locked: 0
